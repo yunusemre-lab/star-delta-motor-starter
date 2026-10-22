@@ -90,7 +90,3 @@ Büyük güçlü asenkron motorlar doğrudan (şebekeye direkt) başlatıldıkla
   <img width="100%" alt="Devre Şeması 4" src="https://github.com/user-attachments/assets/2bd1221d-cd24-43f6-a86a-a115c441f37a" />
 </p>
 
----
-
-## 👨‍💻 Lisans & İletişim
-Bu proje açık kaynaklı olup eğitim ve mühendislik çalışmaları için özgürce kullanılabilir.
